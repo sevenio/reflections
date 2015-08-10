@@ -9,3 +9,7 @@ use git log to view the checkpoints and git diff to view the updates made to the
 How might using version control make you more confident to make changes that could break something?
 It makes us confident because we no more need to worry about breaking something since we can always undo it .Now that you have your workspace set up, what do you want to try using Git for?
 I dont know.
+What happens when you initialize a repository? Why do you need to do it?
+Files that are interdependent come into one repository and can be commited at once.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It provides the cache so that we can undo what we have done.
